@@ -26,5 +26,12 @@
 			"two": "Två",
 			"three": "Tre",
 			"longtext": "Detta är en lång text"
+		},
+	"es":
+		{
+			"one": "Uno",
+			"two": "Dos",
+			"three": "Tres",
+			"longtext": "Este es un texto largo"
 		}
 }
